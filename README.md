@@ -576,18 +576,15 @@ This structure reflects a control-oriented approach to analytical work.
 Recommended GitHub repository structure:
 
 ```text
-phishing-email-data-quality/
+Phishing-Email-detection/
 │
-├── README.md
+├── DATA/
+│   └── Raw_data.CSV
 │
-├── sql/
-│   ├── phishing_email_detection.sql
+├── SQL/
+│   └── phishing_email_detection.sql
 │
-├── data/
-│   └── README.md
-│
-└── docs/
-    └── data_quality_framework.md
+└── Readme.MD
 ```
 
 The SQL script contains the complete workflow from raw table creation and data ingestion through data quality controls and business analysis.
