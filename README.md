@@ -714,6 +714,10 @@ These enhancements are outside the scope of the current SQL workflow.
 
 **Yugo Baskara**
 
+Linkedin : https://www.linkedin.com/in/yugobaskara/
+
+Auditor | Data Analyst | SQL | Data Engineering Enthusiast
+
 Focus areas:
 
 ```text
@@ -736,3 +740,16 @@ This project represents my approach to combining an **audit and assurance mindse
 The core principle behind the project is simple:
 
 > **Reliable analysis starts with reliable data.**
+
+---
+
+## 📄 Data Source & Attribution
+
+The dataset used in this project was obtained from the public Kaggle dataset published by the user Prince Rajak.
+
+This project is created strictly for educational and portfolio purposes.
+All data processing, transformation logic, and analytical design are original work by the author.
+
+
+---
+
