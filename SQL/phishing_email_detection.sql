@@ -147,7 +147,8 @@ FROM
     FROM portofolio.phishing_email_detection_raw
     GROUP BY email_id
     HAVING COUNT(*) > 1
-) AS duplicate_check;
+) AS duplicate_check
+;
 
 
 -- ======================= --
